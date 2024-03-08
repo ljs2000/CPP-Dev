@@ -1,12 +1,10 @@
+//Hello World program.
 #include <iostream>
 
 using namespace std;
 
-int main() 
+int main()
 {
-
-cout << "Hello World!";
-
-return 0;
-
+    cout << "Hello World!\n"; //Prints hello world on screen
+    return 0;
 }
